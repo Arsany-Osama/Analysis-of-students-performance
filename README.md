@@ -14,7 +14,7 @@
   <h3 align="center">Analysis-of-students-performance</h3>
 
   <p align="center">
-    Using  K-medoids, Fuzzy, Hierarchical Clustering
+    Using  K-medoids, Fuzzy, Hierarchical Clustering, Decision Tree
     <br/>
     <a href="https://github.com/Arsany-Osama/Analysis-of-students-performance/tree/master"><strong>Explore the docs »</strong></a>
   </p>
