@@ -1,4 +1,4 @@
-![image](https://github.com/Arsany-Osama/Analysis-of-students-performance/assets/160052013/b8970f10-6a9e-4af4-8aad-e1e69976cbc8)<!-- PROJECT SHIELDS -->
+<!-- PROJECT SHIELDS -->
 &nbsp; &nbsp; &nbsp; &nbsp;
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
