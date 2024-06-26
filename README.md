@@ -50,26 +50,27 @@
 
 ## Project Contents
 </br>
-* Dataset Used
-         1.1 Information about dataset				
-         1.2 Where did we find it?
-         1.3 Why did we choose it specifically?
+* Dataset Used</br>
+    &nbsp; &nbsp;     1.1 Information about dataset		</br>		
+    &nbsp; &nbsp;     1.2 Where did we find it?</br>
+    &nbsp; &nbsp;     1.3 Why did we choose it specifically?</br>
 </br>
-* Analytical questions
-         2.1 What’s the percentage of boys to girls & who are successful among them?
-         2.2 How many absentees are there in each subject for each specialty?
-         2.3 What’s the percentage of different specializations & who’re the successful/fail ones?
-         2.4 Percentage of successful students in each governorate
-         2.5 The overall success rate of students in each subject
-         2.6 Who are the top ten students in each specialty?
-         2.7 Which administration and school has the highest average grades in Alexandria?
-         2.8 Did the majority pass the exams with a half grade in each subject?         2.9  Possible cheating rates in exams for each city
+* Analytical questions</br>
+    &nbsp; &nbsp;     2.1 What’s the percentage of boys to girls & who are successful among them?</br>
+    &nbsp; &nbsp;     2.2 How many absentees are there in each subject for each specialty?</br>
+    &nbsp; &nbsp;     2.3 What’s the percentage of different specializations & who’re the successful/fail ones?</br>
+    &nbsp; &nbsp;     2.4 Percentage of successful students in each governorate</br>
+    &nbsp; &nbsp;     2.5 The overall success rate of students in each subject</br>
+    &nbsp; &nbsp;     2.6 Who are the top ten students in each specialty?</br>
+    &nbsp; &nbsp;     2.7 Which administration and school has the highest average grades in Alexandria?</br>
+    &nbsp; &nbsp;     2.8 Did the majority pass the exams with a half grade in each subject?</br>
+    &nbsp; &nbsp;     2.9  Possible cheating rates in exams for each city</br>
 </br>
-* Application of Mining Techniques
-        3.1 The subject that most affects status by Classification Algorithm ( Decision Tree )
-        3.2 Possible grades that were added to the failing student to pass the exam ) K-Medoids )
-        3.3 Classifying students’ level in each subject using advanced clustering ( Fuzzy )
-        3.4 The relationship between each subject and grouping similar ones ( Hierarchical )
+* Application of Mining Techniques</br>
+    &nbsp; &nbsp;    3.1 The subject that most affects status by Classification Algorithm ( Decision Tree )</br>
+    &nbsp; &nbsp;    3.2 Possible grades that were added to the failing student to pass the exam ) K-Medoids )</br>
+    &nbsp; &nbsp;    3.3 Classifying students’ level in each subject using advanced clustering ( Fuzzy )</br>
+    &nbsp; &nbsp;    3.4 The relationship between each subject and grouping similar ones ( Hierarchical )</br>
 </br>
 
 ## Some output analysis
